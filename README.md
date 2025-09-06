@@ -2,6 +2,9 @@
 
 <h1 align="center"> Hugging Face 블로그 탐험가 </h1>
 
+<img width="4096" height="2115" alt="Group 1" src="https://github.com/user-attachments/assets/85cd2f75-b50a-4f3c-af76-7a11ce33a11e" />
+
+
 <div align="center">
 <a href="https://pseudo-lab.com"><img src="https://img.shields.io/badge/PseudoLab-S11-3776AB" alt="PseudoLab"/></a>
 <a href="https://discord.gg/EPurkHVtp2"><img src="https://img.shields.io/badge/Discord-BF40BF" alt="Discord Community"/></a>
