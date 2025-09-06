@@ -104,6 +104,7 @@ gantt
 
 ## 🌱 참여 안내 (How to Engage)
 ❗️참여 링크: [가짜연구소 디스코드](https://discord.gg/EPurkHVtp2)
+
 ❗️커뮤니케이션 채널: 디스코드 #hugging-face-블로그-탐험가
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
@@ -113,9 +114,9 @@ gantt
 
 ## Acknowledgement 🙏
 
-이 프로젝트는 가짜연구소 Open Academy로 진행됩니다.
+Hugging Face 블로그 탐험가 프로젝트는 가짜연구소 Open Academy로 진행됩니다.
 여러분의 참여와 기여가 ‘우연한 혁명(Serendipity Revolution)’을 가능하게 합니다. 모두에게 깊은 감사를 전합니다.
-OOO is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
+Hugging Face KREW Blog Explorer is developed as part of Pseudo-Lab's Open Research Initiative. Special thanks to our contributors and the open source community for their valuable insights and contributions.
 
 ## About Pseudo Lab 👋🏼</h2>
 
