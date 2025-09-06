@@ -10,7 +10,7 @@
 <a href="https://github.com/Pseudo-Lab/Hugging-Face-KREW-blog-explorer/pulls"><img src="https://img.shields.io/github/issues-pr/Pseudo-Lab/Hugging-Face-KREW-blog-explorer" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/Hugging-Face-KREW-blog-explorer/issues"><img src="https://img.shields.io/github/issues/Pseudo-Lab/Hugging-Face-KREW-blog-explorer" alt="Issues Badge"/></a>
 <a href="https://github.com/Pseudo-Lab/Hugging-Face-KREW-blog-explorer/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Pseudo-Lab/Hugging-Face-KREW-blog-explorer?color=2b9348"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpseudo-lab%2FHugging-Face-KREW-blog-explorer%2Ftree%2Fmain&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 </div>
 </div>
 <br>
