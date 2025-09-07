@@ -33,7 +33,7 @@
 
 | 역할          | 이름 |  프로젝트 내 포지션                                                                | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 심소현 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 데이터 분석과 LLM             |
+| **Project Manager** | 심소현 |  | 데이터 분석과 LLM             |
 | **Member** |  |  |                   | 
 | **Member** |  |  |                   | 
 | **Member** |  |  |                   | 
