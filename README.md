@@ -79,7 +79,7 @@ gantt
 | 2025/09/23 | _Magical Week_ |  |  |
 | 2025/09/30 |  블로그 번역 3 | 안정 | [smolagents](https://huggingface.co/blog/smolagents) |
 |  |  블로그 번역 4 [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 |  |
-| 2025/10/06 |  블로그 번역 5 | 이정 |  |
+| 2025/10/06 |  블로그 번역 5 [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 |  |
 |  |  블로그 번역 6 | 미정 |  |
 | 2025/10/13 |  블로그 번역 7 [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
 |  |  블로그 번역 8 | 미정 |  |
