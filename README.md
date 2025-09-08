@@ -36,7 +36,7 @@
 | **Project Manager** | 심소현 | 탐험대장(오락부장) | 
 | **Member** | 안정 |  | 
 | **Member** | 윤현서 |  | 
-| **Member** |  |  | 
+| **Member** | 안지민 |  | 
 | **Member** |  |  | 
 | **Member** |  |  | 
 | **Member** |  |  | 
@@ -81,7 +81,7 @@ gantt
 |  |  블로그 번역 4 [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 |  |
 | 2025/10/06 |  블로그 번역 5 | 미정 |  |
 |  |  블로그 번역 6 | 미정 |  |
-| 2025/10/13 |  블로그 번역 7 | 미정 | 
+| 2025/10/13 |  블로그 번역 7 [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
 |  |  블로그 번역 8 | 미정 |  |
 | 2025/10/20 | 블로그 번역 1 | 미정 |  |
 |  | 블로그 번역 2 | 미정 |  |
