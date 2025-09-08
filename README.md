@@ -34,7 +34,7 @@
 | 역할          | 이름 |  프로젝트 내 포지션                                                                | 
 |---------------|------|-----------------------------------------------------------------------|
 | **Project Manager** | 심소현 | 탐험대장(오락부장) | 
-| **Member** |  |  | 
+| **Member** | 안정 |  | 
 | **Member** |  |  | 
 | **Member** |  |  | 
 | **Member** |  |  | 
@@ -74,10 +74,10 @@ gantt
 | 날짜 | 내용 | 발표자 | 발표 자료 |
 | -------- | -------- | ---- | --- |
 | 2025/09/09 | OT       |      | --- |
-| 2025/09/16 | [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | 심소현 @sim-so |  |
+| 2025/09/16 | 블로그 번역 1 [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | 심소현 @sim-so |  |
 |  | 블로그 번역 2 | @Jaminju |  |
 | 2025/09/23 | _Magical Week_ |  |  |
-| 2025/09/30 |  블로그 번역 3 | 미정 |  |
+| 2025/09/30 |  블로그 번역 3 | 안정 | [smolagents](https://huggingface.co/blog/smolagents) |
 |  |  블로그 번역 4 | 미정 |  |
 | 2025/10/06 |  블로그 번역 5 | 미정 |  |
 |  |  블로그 번역 6 | 미정 |  |
