@@ -35,7 +35,7 @@
 |---------------|------|-----------------------------------------------------------------------|
 | **Project Manager** | 심소현 | 탐험대장(오락부장) | 
 | **Member** | 안정 |  | 
-| **Member** |  |  | 
+| **Member** | 윤현서 |  | 
 | **Member** |  |  | 
 | **Member** |  |  | 
 | **Member** |  |  | 
@@ -78,7 +78,7 @@ gantt
 |  | 블로그 번역 2 | @Jaminju |  |
 | 2025/09/23 | _Magical Week_ |  |  |
 | 2025/09/30 |  블로그 번역 3 | 안정 | [smolagents](https://huggingface.co/blog/smolagents) |
-|  |  블로그 번역 4 | 미정 |  |
+|  |  블로그 번역 4 [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 |  |
 | 2025/10/06 |  블로그 번역 5 | 미정 |  |
 |  |  블로그 번역 6 | 미정 |  |
 | 2025/10/13 |  블로그 번역 7 | 미정 | 
