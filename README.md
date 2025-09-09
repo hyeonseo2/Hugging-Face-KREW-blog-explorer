@@ -39,7 +39,7 @@
 | **Member** | 안지민 |  | 
 | **Member** | 이효정 |  | 
 | **Member** | 정우준 | 넉살(보드게임장) | 
-| **Member** |  |  | 
+| **Member** | 조영준 | 깍두기(리액션담당) | 
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
@@ -80,7 +80,7 @@ gantt
 | 2025/09/30 |  블로그 번역 3 | 안정 | [smolagents](https://huggingface.co/blog/smolagents) |
 |  |  블로그 번역 4 [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 |  |
 | 2025/10/06 |  블로그 번역 5 [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 |  |
-|  |  블로그 번역 6 | 미정 |  |
+|  |  블로그 번역 6 [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025) | 조영준 |  |
 | 2025/10/13 |  블로그 번역 7 [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
 |  |  블로그 번역 8 [Vision Language Models Explained](https://huggingface.co/blog/vlms) | 정우준 |  |
 | 2025/10/20 | 블로그 번역 1 | 미정 |  |
