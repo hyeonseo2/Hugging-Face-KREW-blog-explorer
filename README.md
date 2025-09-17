@@ -35,11 +35,12 @@
 |---------------|------|-----------------------------------------------------------------------|
 | **Project Manager** | 심소현 | 탐험대장(오락부장) | 
 | **Member** | 안정 |  | 
-| **Member** | 윤현서 | 프로코딩러 | 
-| **Member** |  |  | 
-| **Member** |  |  | 
-| **Member** |  |  | 
-| **Member** |  |  | 
+| **Member** | 윤현서 |  | 
+| **Member** | 안지민 |  | 
+| **Member** | 이효정 |  | 
+| **Member** | 정우준 | 넉살(보드게임장) | 
+| **Member** | 조영준 | 깍두기(리액션담당) | 
+| **Member** | 좌민주 | 찍먹가(처음 해보는 것 찍먹하고 공유하기) | 
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
@@ -75,14 +76,14 @@ gantt
 | -------- | -------- | ---- | --- |
 | 2025/09/09 | OT       |      | --- |
 | 2025/09/16 | 블로그 번역 1 [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | 심소현 @sim-so |  |
-|  | 블로그 번역 2 | @Jaminju |  |
+|  | 블로그 번역 2 [Tiny Agents in Python: an MCP-powered agent in ~70 lines of code](https://huggingface.co/blog/python-tiny-agents) | 좌민주 @Jwaminju |  |
 | 2025/09/23 | _Magical Week_ |  |  |
 | 2025/09/30 |  블로그 번역 3 | 안정 | [smolagents](https://huggingface.co/blog/smolagents) |
 |  |  블로그 번역 4 [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 |  |
-| 2025/10/06 |  블로그 번역 5 | 미정 |  |
-|  |  블로그 번역 6 | 미정 |  |
-| 2025/10/13 |  블로그 번역 7 | 미정 | 
-|  |  블로그 번역 8 | 미정 |  |
+| 2025/10/06 |  블로그 번역 5 [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 |  |
+|  |  블로그 번역 6 [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025) | 조영준 |  |
+| 2025/10/13 |  블로그 번역 7 [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
+|  |  블로그 번역 8 [Vision Language Models Explained](https://huggingface.co/blog/vlms) | 정우준 |  |
 | 2025/10/20 | 블로그 번역 1 | 미정 |  |
 |  | 블로그 번역 2 | 미정 |  |
 |  | 블로그 번역 Wrap Up | 미정 |  |
