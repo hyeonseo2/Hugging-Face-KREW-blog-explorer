@@ -33,14 +33,14 @@
 
 | 역할          | 이름 |  프로젝트 내 포지션                                                                | 
 |---------------|------|-----------------------------------------------------------------------|
-| **Project Manager** | 심소현 | 탐험대장(오락부장) | 
-| **Member** | 안정 |  | 
-| **Member** | 윤현서 |  | 
-| **Member** | 안지민 |  | 
-| **Member** | 이효정 |  | 
-| **Member** | 정우준 | 넉살(보드게임장) | 
-| **Member** | 조영준 | 깍두기(리액션담당) | 
-| **Member** | 좌민주 | 찍먹가(처음 해보는 것 찍먹하고 공유하기) | 
+| **Project Manager** | 심소현 @sim-so | 탐험대장(오락부장) | 
+| **Member** | 안정 @ahnjj | 무플방지위원회원원 | 
+| **Member** | 윤현서 @hyeonseo2 |  | 
+| **Member** | 안지민 @jiminAn |  | 
+| **Member** | 이효정 @eehyo |  | 
+| **Member** | 정우준 @jungnerd | 넉살(보드게임장) | 
+| **Member** | 조영준 @choincnp | 깍두기(리액션담당) | 
+| **Member** | 좌민주 @Jwaminju | 찍먹가(처음 해보는 것 찍먹하고 공유하기) | 
 
 
 ## 🚀 프로젝트 로드맵 (Project Roadmap)
@@ -75,27 +75,34 @@ gantt
 | 날짜 | 내용 | 발표자 | 발표 자료 |
 | -------- | -------- | ---- | --- |
 | 2025/09/09 | OT       |      | --- |
-| 2025/09/16 | 블로그 번역 1 [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | 심소현 @sim-so |  |
-|  | 블로그 번역 2 [Tiny Agents in Python: an MCP-powered agent in ~70 lines of code](https://huggingface.co/blog/python-tiny-agents) | 좌민주 @Jwaminju |  |
+| 2025/09/16 | 번역: [Implementing MCP Servers in Python: An AI Shopping Assistant with Gradio](https://huggingface.co/blog/gradio-vton-mcp) | 심소현 | [번역](https://hugging-face-krew.github.io/Implementing-MCP-Servers-in-Python/) |
+|  | 번역: [Tiny Agents in Python: an MCP-powered agent in ~70 lines of code](https://huggingface.co/blog/python-tiny-agents) | 좌민주 | [번역](https://hugging-face-krew.github.io/python-tiny-agents-ko/) / [발표자료](https://hugging-face-krew.github.io/python-tiny-agents-study/) |
 | 2025/09/23 | _Magical Week_ |  |  |
-| 2025/09/30 |  블로그 번역 3 | 안정 | [smolagents](https://huggingface.co/blog/smolagents) |
-|  |  블로그 번역 4 [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 |  |
-| 2025/10/06 |  블로그 번역 5 [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 |  |
-|  |  블로그 번역 6 [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025) | 조영준 |  |
-| 2025/10/13 |  블로그 번역 7 [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
-|  |  블로그 번역 8 [Vision Language Models Explained](https://huggingface.co/blog/vlms) | 정우준 |  |
-| 2025/10/20 | 블로그 번역 1 | 미정 |  |
-|  | 블로그 번역 2 | 미정 |  |
+| 2025/09/30 |  번역: [Introducing smolagents, a simple library to build agents](https://huggingface.co/blog/smolagents) | 안정 | [번역](https://hugging-face-krew.github.io/Introducing-smolagents/) |
+|  |  번역: [Building the Hugging Face MCP Server](https://huggingface.co/blog/building-hf-mcp) | 윤현서 | [번역](https://hugging-face-krew.github.io/building-hf-mcp-ko/) / [발표자료](https://hugging-face-krew.github.io/building-hf-mcp-study/) |
+| 2025/10/06 |  번역: [MCP for Research: How to Connect AI to Research Tools](https://huggingface.co/blog/mcp-for-research) | 이효정 | [번역](https://hugging-face-krew.github.io/mcp-for-research/) |
+|  |  MCP 서버 개발 프로젝트 소개 | 좌민주 | [발표자료](https://www.figma.com/design/zIZEBI6vdIdERZ6uRUNpe3/i18n-agent-MCP-project-overview?node-id=0-1&t=wRjdlsRjG6ohXoMX-1) |
+| 2025/10/13 |  번역: [CodeAgents + Structure: A Better Way to Execute Actions](https://huggingface.co/blog/structured-codeagent) | 안지민 | 
+|  |  번역: [Vision Language Models Explained](https://huggingface.co/blog/vlms) | 정우준 |  |
+| 2025/10/20 | 번역: [Vision Language Models (Better, Faster, Stronger)](https://huggingface.co/blog/vlms-2025) | 조영준 |  |
 |  | 블로그 번역 Wrap Up | 미정 |  |
 | 2025/10/27 | _Magical Week_ |  |  |
-| 2025/11/03 |  |  |  |
-| 2025/11/10 |  |  |  |
-| 2025/11/17 |  |  |  |
-| 2025/11/24 |  |  |  |
-| 2025/12/01 |  |  |  |
-| 2025/12/08 |  |  |  |
-| 2025/12/15 |  |  |  |
-| 2025/12/22 | Wrap Up |  |  |
+| 2025/11/03 | 발표 1 | 심소현 |  |
+|  | 발표 2 |  |  |
+| 2025/11/10 | 번역: [π0 and π0-FAST: Vision-Language-Action Models for General Robot Control](https://huggingface.co/blog/pi0) | 이효정 |  |
+|  | 번역: [mem-agent: Equipping LLM Agents with Memory Using RL](https://huggingface.co/blog/driaforall/mem-agent-blog) | 안정 |  |
+| 2025/11/17 | 발표 5 | 안지민  |  |
+|  | 발표 6 |  |  |
+| 2025/11/24 | 발표 7 |  |  |
+|  | 번역: [Vision Language Model Alignment in TRL ⚡️](https://huggingface.co/blog/trl-vlm-alignment) | 정우준 |  |
+| 2025/12/01 | 발표 1 |  |  |
+|  | 발표 2 |  |  |
+| 2025/12/08 | 발표 3 |  |  |
+|  | 발표 4 |  |  |
+| 2025/12/15 | 발표 5 |  |  |
+|  | 발표 6 |  |  |
+| 2025/12/22 | 발표 7 |  |  |
+|  | 발표 8 |  |  |
 
 
 ## 💡 학습 자원 (Learning Resources)
